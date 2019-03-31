@@ -22,6 +22,17 @@ Our project aims to automate taxonomic data capture from scientific reports, som
 # ![Diagram](Resources/concept_diagram.jpg)
 ## Product Value
 Our project has high academic and economic value. The project will help our clients improve their data collection efficiency, which can save a lot of time for them. Also, the project output software is working on automatic data collection. Therefore, they can reduce labor consumption and save a lot of money. In addition, this project is working for an open source academic website, the success of our project will help many people improve their data searching speed on this web site.
+## Value delivered to the client
+- Investigate and study on existing studies and projects of extracting information, xml tags (Golden Gate).
+- Build a roadmap to show what we will deliver at each development stage.
+- Extract information from tagged xml articles on ZooBank.
+- Do research on extracting information from untagged articles and make a design to solve it. .
+- Be able to convert untagged articles into xml format by using GoldenGate or other possible tools.
+- Extract information from tagged xml articles which are transformed by GoldenGate.
+- Output the information in the format of standard xml, which is convenient for integrated with clients’ datab	ases.
+- Build a user interface for input and output display with human-editability function.
+- Finalize the web-based APP platform.
+
 ## Client Expectation
 The client expects us to achieve some sort of functionality in terms of analysing documents in pdf form and returning scientific names present. At this point the client's expectations are not entirely clear and we intend to work with them to develop a concrete idea of what we are supposed to achieve with our project over the course of this week.
 ## Road Map and System Diagram
@@ -81,16 +92,32 @@ Week 11:
 # Risk Management
 As the project is being implemented as part of a secure system, it is important that it does not present any new vulnerabilities to that system. This can be achieved by being considerate of the environment in which our project will be deployed and using appropriate programming techniques.
 #### [Risk Register](https://drive.google.com/drive/folders/1VyUxQys5N7-MRKLpOc4DQ5fEEyYf8H6q?usp=sharing)
-## Team Member Roles
+## Team Member Roles and Activities in Delivery Process:
 
 | Team Member            | Uni ID         | Role                                                                    |
 | -----------------------| ---------------| ------------------------------------------------------------------------|
-| Jing Li                | u6531952       | Project Manager, Developer(PDF type convert & Database)                 |
-| Biwei Cao              | u5926643       | Developer(data taxonomy & Database), Documentation (Agenda)             |
-| Jiaqi Zhang            | u6089193       | Developer(OCR & Testing)                                                |
-| Joshua Trevor          | u6405233       | Developer(data taxonomy), Spokesperson                                  |
-| Yanlong LI             | u5890571       | Developer(OCR & full steak web)                                         |
-| Yuan Yao               | u5945391       | Developer, Documentation                                                |
+| Jing Li                | u6531952       | Project Manager, Developer(Text Classification)                         |
+| Biwei Cao              | u5926643       | Developer(Text Classification, Documentation,Agenda)                    |
+| Jiaqi Zhang            | u6089193       | Developer(Testing)                                                      |
+| Joshua Trevor          | u6405233       | Developer(Text Classification,research on GoldenGate, Spokesperson)     |
+| Yanlong LI             | u5890571       | Developer(UI & full steak web)                                          |
+| Yuan Yao               | u5945391       | Developer(Text Classification,UI)                                       |
+
+We have regular meetings with clients fortnightly. In the previous meetings, we have a better understanding of the project, what we are supposed to do and what we are able to do. The whole project has different components, different team members are working on different aspects, these parts will finally put together. By group meeting, we discuss each work and to make sure there's no functional conflict.
+
+## Quantitative Records of Progress:
+According to the changes, we give more specific roles and tasks to team member. The testing and backend of information extraction are both holding a folder on google drive, which document the design of each part.
+
+Testing Design and Implementation
+
+https://drive.google.com/drive/folders/1q1XmrbL_dwGKlekvPOv6z-yesgUQQasN
+
+Backend 
+
+https://drive.google.com/drive/folders/1Y17atII6fwKeBC6eu8v6PLbdWbA9J6qr
+
+By the 'Things to Be Done' part of group meeting, tasks allocation and weekly review we track progress.
+Testing and web server parts both make branches of git to develop their code, which will be integreted in the master branch in the future. 
 
 
 ## Communication Tools
