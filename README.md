@@ -10,7 +10,7 @@ Table of Contents
   * [Schedule](#schedule)
   * [Progress](#progress)
   * [Risk Management](#risk-management)
-  * [Team Member Roles](#team-member-roles)
+  * [Team Member Roles and Activities](#team-member-roles)
   * [Communiaction Tools](#communication-tools)
   * [Development Environment](#development-environment)
   * [Development Tools](#development-tools)
