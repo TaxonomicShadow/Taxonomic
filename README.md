@@ -102,6 +102,14 @@ As the project is being implemented as part of a secure system, it is important 
 
 We have regular meetings with clients fortnightly. In the previous meetings, we have a better understanding of the project, what we are supposed to do and what we are able to do. The whole project has different components, different team members are working on different aspects, these parts will finally put together. By group meeting, we discuss each work and to make sure there's no functional conflict.
 
+The following are activies in delivery process:
+| Team Member            | Uni ID         | Role                                         |                         
+| -----------------------| ---------------| ---------------------------------------------|
+| Biwei Cao and Jing Li  | Analyse xml structure of ZooKeys. Start trying extraction.    |
+| Jiaqi Zhang            | Create test plan                                              |
+| Joshua Trevor          | Thoroughly investigate GoldenGate3                            |
+| Yanlong Li and Yuan Yao| UI design                                                     |
+
 ## Quantitative Records of Progress:
 According to the changes, we give more specific roles and tasks to team member. The testing and backend of information extraction are both holding a folder on google drive, which document the design of each part.
 
