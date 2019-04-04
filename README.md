@@ -88,7 +88,7 @@ Week 11:
 # ![Diagram](Resources/Schedule6.png)
 # Risk Management
 As the project is being implemented as part of a secure system, it is important that it does not present any new vulnerabilities to that system. This can be achieved by being considerate of the environment in which our project will be deployed and using appropriate programming techniques.
-#### [Risk Register](https://drive.google.com/drive/folders/1VyUxQys5N7-MRKLpOc4DQ5fEEyYf8H6q?usp=sharing)
+## [Risk Register](https://drive.google.com/drive/folders/1VyUxQys5N7-MRKLpOc4DQ5fEEyYf8H6q?usp=sharing)
 ## Team Member Roles and Activities in Delivery Process:
 
 | Team Member            | Uni ID         | Role                                                                    |
@@ -103,8 +103,9 @@ As the project is being implemented as part of a secure system, it is important 
 We have regular meetings with clients fortnightly. In the previous meetings, we have a better understanding of the project, what we are supposed to do and what we are able to do. The whole project has different components, different team members are working on different aspects, these parts will finally put together. By group meeting, we discuss each work and to make sure there's no functional conflict.
 
 The following are activies in delivery process:
-| Team Member            | Uni ID         | Role                                         |                         
-| -----------------------| ---------------| ---------------------------------------------|
+
+| Team Member            |  In delivery process                                                         |                         
+| -----------------------| --------------------------------------------------------------|
 | Biwei Cao and Jing Li  | Analyse xml structure of ZooKeys. Start trying extraction.    |
 | Jiaqi Zhang            | Create test plan                                              |
 | Joshua Trevor          | Thoroughly investigate GoldenGate3                            |
