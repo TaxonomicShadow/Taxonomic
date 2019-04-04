@@ -4,7 +4,6 @@ Table of Contents
   * [Project Value](#project-value)
   * [Client Expectation](#client-expectation)
   * [Road Map and System Diagram](#road-map-and-system-diagram)
-  * [User Interface Prototype](#user-interface-prototype)
   * [User Story Map](#user-story-map)
   * [Milestones](#milestones)
   * [Schedule](#schedule)
@@ -38,8 +37,6 @@ The client expects us to achieve some sort of functionality in terms of analysin
 ## Road Map and System Diagram
 # ![Diagram](Resources/roadmap.jpg)
 # ![Diagram](Resources/BackEndFlow.png)
-## User Interface Prototype
-# ![Diagram](Resources/UIPrototype.jpg)
 ## User Story Map
 # ![Diagram](Resources/usm.png)
 ## Milestones
@@ -115,6 +112,10 @@ https://drive.google.com/drive/folders/1q1XmrbL_dwGKlekvPOv6z-yesgUQQasN
 Backend 
 
 https://drive.google.com/drive/folders/1Y17atII6fwKeBC6eu8v6PLbdWbA9J6qr
+
+User Interface Prototype
+
+![Diagram](Resources/UIPrototype.jpg)
 
 By the 'Things to Be Done' part of group meeting, tasks allocation and weekly review we track progress.
 Testing and web server parts both make branches of git to develop their code, which will be integreted in the master branch in the future. 
