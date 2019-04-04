@@ -20,7 +20,7 @@ Table of Contents
 ## Introduction
 Our project aims to automate taxonomic data capture from scientific reports, something which is currently performed manually. This information can then be uploaded to searchable databases where it can be accessed by the public. Automating this process will save our client time, effort and money which can be better spent elsewhere.
 # ![Diagram](Resources/concept_diagram.jpg)
-## Product Value
+## Project Value
 Our project has high academic and economic value. The project will help our clients improve their data collection efficiency, which can save a lot of time for them. Also, the project output software is working on automatic data collection. Therefore, they can reduce labor consumption and save a lot of money. In addition, this project is working for an open source academic website, the success of our project will help many people improve their data searching speed on this web site.
 ## Value delivered to the client
 - Investigate and study on existing studies and projects of extracting information, xml tags (Golden Gate).
