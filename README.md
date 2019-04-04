@@ -10,7 +10,7 @@ Table of Contents
   * [Schedule](#schedule)
   * [Progress](#progress)
   * [Risk Management](#risk-management)
-  * [Team Member Roles and Activities in Delivery Process](#team-member-roles-and-activities)
+  * [Team Member Roles and Activities in Delivery Process](#team-member-roles-and-activities-in-delivery-process)
   * [Communiaction Tools](#communication-tools)
   * [Development Environment](#development-environment)
   * [Development Tools](#development-tools)
