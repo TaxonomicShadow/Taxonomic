@@ -124,7 +124,7 @@ Testing and web server parts both make branches of git to develop their code, wh
 ## Communication Tools
 1. Email
 2. Facebook Messenger
-3. Slack
+
 
 ## Development Environment
 -  Language: 
